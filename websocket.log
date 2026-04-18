@@ -1,0 +1,411 @@
+2026-04-18 06:06:25 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 06:06:25 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 06:06:25 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 06:06:25 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 06:06:25 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 06:06:25 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 06:06:25 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 06:06:25 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 06:06:25 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 06:06:25 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 06:06:25 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 06:06:25 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 06:08:29 | INFO     | digital_twin.websocket | ✅ Client connected: 866397be-8ada-44c5-a8eb-12a42b113c5e | Machine: ALL | Total: 1
+2026-04-18 06:09:36 | INFO     | digital_twin.websocket | ❌ Client disconnected: 866397be-8ada-44c5-a8eb-12a42b113c5e | Remaining: 0
+2026-04-18 06:14:01 | INFO     | digital_twin.websocket | ✅ Client connected: b2d8b1ce-7f5a-4fa1-bfdd-9518e460beee | Machine: ALL | Total: 1
+2026-04-18 06:14:06 | INFO     | digital_twin.websocket | ❌ Client disconnected: b2d8b1ce-7f5a-4fa1-bfdd-9518e460beee | Remaining: 0
+2026-04-18 06:14:07 | INFO     | digital_twin.websocket | ✅ Client connected: 88617c17-e1f1-49dc-a650-70fad0f7a4bf | Machine: ALL | Total: 1
+2026-04-18 06:16:05 | INFO     | digital_twin.websocket | ✅ Client connected: d55214dd-a396-4d2b-a8f2-918dda0bb7ba | Machine: ALL | Total: 2
+2026-04-18 06:16:08 | INFO     | digital_twin.websocket | ❌ Client disconnected: d55214dd-a396-4d2b-a8f2-918dda0bb7ba | Remaining: 1
+2026-04-18 06:16:08 | INFO     | digital_twin.websocket | ❌ Client disconnected: 88617c17-e1f1-49dc-a650-70fad0f7a4bf | Remaining: 0
+2026-04-18 06:16:08 | INFO     | digital_twin.websocket | ✅ Client connected: 943a4dc1-234a-40eb-91c4-88c3c986b672 | Machine: ALL | Total: 1
+2026-04-18 06:22:34 | INFO     | digital_twin.websocket | ✅ Client connected: 0307543c-36d4-45e0-bf25-66dd8dd1ae6d | Machine: ALL | Total: 2
+2026-04-18 06:22:37 | INFO     | digital_twin.websocket | ❌ Client disconnected: 943a4dc1-234a-40eb-91c4-88c3c986b672 | Remaining: 1
+2026-04-18 06:27:11 | INFO     | digital_twin.websocket | ❌ Client disconnected: 0307543c-36d4-45e0-bf25-66dd8dd1ae6d | Remaining: 0
+2026-04-18 06:28:11 | INFO     | digital_twin.websocket | ✅ Client connected: 23da0deb-59e6-4823-ad53-8534c3e79ab3 | Machine: ALL | Total: 1
+2026-04-18 07:23:54 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 07:23:54 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 07:23:54 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 07:23:54 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 07:23:54 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 07:23:54 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 07:23:54 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 07:23:54 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 07:23:54 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 07:23:54 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 07:23:54 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 07:23:54 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 07:24:36 | INFO     | digital_twin.websocket | ✅ Client connected: 58b4f912-0b45-4c36-8076-0fb31919db37 | Machine: ALL | Total: 1
+2026-04-18 07:24:42 | INFO     | digital_twin.websocket | ❌ Client disconnected: 58b4f912-0b45-4c36-8076-0fb31919db37 | Remaining: 0
+2026-04-18 07:24:42 | INFO     | digital_twin.websocket | ✅ Client connected: fce84976-82b8-4b3a-95d5-47a238bd3fb3 | Machine: ALL | Total: 1
+2026-04-18 07:24:43 | INFO     | digital_twin.websocket | ❌ Client disconnected: fce84976-82b8-4b3a-95d5-47a238bd3fb3 | Remaining: 0
+2026-04-18 07:24:44 | INFO     | digital_twin.websocket | ✅ Client connected: 66011bd1-fcfb-4224-a551-ba2e23886d11 | Machine: ALL | Total: 1
+2026-04-18 07:24:45 | INFO     | digital_twin.websocket | ❌ Client disconnected: 66011bd1-fcfb-4224-a551-ba2e23886d11 | Remaining: 0
+2026-04-18 07:24:45 | INFO     | digital_twin.websocket | ✅ Client connected: f2a0b6c8-af62-4152-85f5-f931073c8e5c | Machine: ALL | Total: 1
+2026-04-18 07:31:06 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 07:31:06 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 07:31:06 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 07:31:06 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 07:31:06 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 07:31:06 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 07:31:06 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 07:31:06 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 07:31:06 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 07:31:06 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 07:31:06 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 07:31:06 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 07:31:06 | INFO     | digital_twin.websocket | ⏹ All streams stopped
+2026-04-18 07:32:31 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 07:32:31 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 07:32:31 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 07:32:31 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 07:32:31 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 07:32:31 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 07:32:31 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 07:32:31 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 07:32:31 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 07:32:31 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 07:32:31 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 07:32:31 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 07:32:31 | INFO     | digital_twin.websocket | ✅ Client connected: 77f21108-a497-4f8c-a7dc-057b96d73699 | Machine: ALL | Total: 1
+2026-04-18 07:33:38 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 07:33:38 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 07:33:38 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 07:33:38 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 07:33:38 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 07:33:38 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 07:33:38 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 07:33:38 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 07:33:38 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 07:33:38 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 07:33:38 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 07:33:39 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 07:33:41 | INFO     | digital_twin.websocket | ✅ Client connected: 5414654c-306e-4dd3-9b49-f3667efe45cc | Machine: ALL | Total: 1
+2026-04-18 07:33:57 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 07:33:57 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 07:33:57 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 07:33:57 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 07:33:57 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 07:33:57 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 07:33:57 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 07:33:57 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 07:33:57 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 07:33:57 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 07:33:57 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 07:33:57 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 07:33:58 | INFO     | digital_twin.websocket | ✅ Client connected: e430ed65-5155-4b5c-b77d-918f6a4d5de9 | Machine: ALL | Total: 1
+2026-04-18 08:29:39 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 08:29:39 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 08:29:39 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 08:29:39 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 08:29:39 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 08:29:39 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 08:29:39 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 08:29:39 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 08:29:39 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 08:29:39 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 08:29:39 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 08:29:39 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 08:29:59 | INFO     | digital_twin.websocket | ✅ Client connected: 93392c4b-29d2-4fc7-9e87-abe7e7384b9b | Machine: ALL | Total: 1
+2026-04-18 08:29:59 | INFO     | digital_twin.websocket | Client connected: 93392c4b-29d2-4fc7-9e87-abe7e7384b9b | Machine: ALL
+2026-04-18 08:30:01 | INFO     | digital_twin.websocket | Client disconnected: 93392c4b-29d2-4fc7-9e87-abe7e7384b9b
+2026-04-18 08:30:01 | INFO     | digital_twin.websocket | ❌ Client disconnected: 93392c4b-29d2-4fc7-9e87-abe7e7384b9b | Remaining: 0
+2026-04-18 08:30:13 | INFO     | digital_twin.websocket | ✅ Client connected: edeecd6e-1a56-4dcb-919d-cf64338b6785 | Machine: ALL | Total: 1
+2026-04-18 08:30:13 | INFO     | digital_twin.websocket | Client connected: edeecd6e-1a56-4dcb-919d-cf64338b6785 | Machine: ALL
+2026-04-18 08:37:03 | INFO     | digital_twin.websocket | Client disconnected: edeecd6e-1a56-4dcb-919d-cf64338b6785
+2026-04-18 08:37:03 | INFO     | digital_twin.websocket | ❌ Client disconnected: edeecd6e-1a56-4dcb-919d-cf64338b6785 | Remaining: 0
+2026-04-18 08:39:13 | INFO     | digital_twin.websocket | ✅ Client connected: a86c2170-a6be-40c8-bce5-9699821ed7f9 | Machine: ALL | Total: 1
+2026-04-18 08:39:13 | INFO     | digital_twin.websocket | Client connected: a86c2170-a6be-40c8-bce5-9699821ed7f9 | Machine: ALL
+2026-04-18 08:40:08 | INFO     | digital_twin.websocket | Client disconnected: a86c2170-a6be-40c8-bce5-9699821ed7f9
+2026-04-18 08:40:08 | INFO     | digital_twin.websocket | ❌ Client disconnected: a86c2170-a6be-40c8-bce5-9699821ed7f9 | Remaining: 0
+2026-04-18 09:02:50 | INFO     | digital_twin.websocket | ✅ Client connected: 2c4d2006-dca9-4a9c-a4b8-f2df2f023f2f | Machine: ALL | Total: 1
+2026-04-18 09:02:50 | INFO     | digital_twin.websocket | Client connected: 2c4d2006-dca9-4a9c-a4b8-f2df2f023f2f | Machine: ALL
+2026-04-18 09:17:49 | INFO     | digital_twin.websocket | Client disconnected: 2c4d2006-dca9-4a9c-a4b8-f2df2f023f2f
+2026-04-18 09:17:49 | INFO     | digital_twin.websocket | ❌ Client disconnected: 2c4d2006-dca9-4a9c-a4b8-f2df2f023f2f | Remaining: 0
+2026-04-18 09:18:54 | INFO     | digital_twin.websocket | ✅ Client connected: 4f461bb0-6b19-4962-a52e-20238f78ed5f | Machine: ALL | Total: 1
+2026-04-18 09:18:54 | INFO     | digital_twin.websocket | Client connected: 4f461bb0-6b19-4962-a52e-20238f78ed5f | Machine: ALL
+2026-04-18 09:20:00 | INFO     | digital_twin.websocket | Client disconnected: 4f461bb0-6b19-4962-a52e-20238f78ed5f
+2026-04-18 09:20:00 | INFO     | digital_twin.websocket | ❌ Client disconnected: 4f461bb0-6b19-4962-a52e-20238f78ed5f | Remaining: 0
+2026-04-18 09:20:01 | INFO     | digital_twin.websocket | ✅ Client connected: 29d47652-a09b-4fef-9403-506c17511911 | Machine: ALL | Total: 1
+2026-04-18 09:20:01 | INFO     | digital_twin.websocket | Client connected: 29d47652-a09b-4fef-9403-506c17511911 | Machine: ALL
+2026-04-18 09:38:40 | INFO     | digital_twin.websocket | Client disconnected: 29d47652-a09b-4fef-9403-506c17511911
+2026-04-18 09:38:40 | INFO     | digital_twin.websocket | ❌ Client disconnected: 29d47652-a09b-4fef-9403-506c17511911 | Remaining: 0
+2026-04-18 09:38:40 | INFO     | digital_twin.websocket | ✅ Client connected: 016f7f3a-15c4-464a-a11d-1994d805a129 | Machine: ALL | Total: 1
+2026-04-18 09:38:40 | INFO     | digital_twin.websocket | Client connected: 016f7f3a-15c4-464a-a11d-1994d805a129 | Machine: ALL
+2026-04-18 09:39:31 | INFO     | digital_twin.websocket | Client disconnected: 016f7f3a-15c4-464a-a11d-1994d805a129
+2026-04-18 09:39:31 | INFO     | digital_twin.websocket | ❌ Client disconnected: 016f7f3a-15c4-464a-a11d-1994d805a129 | Remaining: 0
+2026-04-18 09:41:28 | INFO     | digital_twin.websocket | ✅ Client connected: 7356a38f-4aef-4471-8f47-399de72d55f4 | Machine: ALL | Total: 1
+2026-04-18 09:41:28 | INFO     | digital_twin.websocket | Client connected: 7356a38f-4aef-4471-8f47-399de72d55f4 | Machine: ALL
+2026-04-18 09:47:10 | INFO     | digital_twin.websocket | Client disconnected: 7356a38f-4aef-4471-8f47-399de72d55f4
+2026-04-18 09:47:10 | INFO     | digital_twin.websocket | ❌ Client disconnected: 7356a38f-4aef-4471-8f47-399de72d55f4 | Remaining: 0
+2026-04-18 09:47:20 | INFO     | digital_twin.websocket | ✅ Client connected: 8720c592-4f73-4304-8691-40bb8269263e | Machine: ALL | Total: 1
+2026-04-18 09:47:20 | INFO     | digital_twin.websocket | Client connected: 8720c592-4f73-4304-8691-40bb8269263e | Machine: ALL
+2026-04-18 09:55:32 | INFO     | digital_twin.websocket | ✅ Client connected: 3b5bc4e3-69f4-455b-ae13-4c49fffc9b3d | Machine: ALL | Total: 2
+2026-04-18 09:55:32 | INFO     | digital_twin.websocket | Client connected: 3b5bc4e3-69f4-455b-ae13-4c49fffc9b3d | Machine: ALL
+2026-04-18 09:56:05 | INFO     | digital_twin.websocket | Client disconnected: 3b5bc4e3-69f4-455b-ae13-4c49fffc9b3d
+2026-04-18 09:56:05 | INFO     | digital_twin.websocket | ❌ Client disconnected: 3b5bc4e3-69f4-455b-ae13-4c49fffc9b3d | Remaining: 1
+2026-04-18 09:56:05 | INFO     | digital_twin.websocket | Client disconnected: 8720c592-4f73-4304-8691-40bb8269263e
+2026-04-18 09:56:05 | INFO     | digital_twin.websocket | ❌ Client disconnected: 8720c592-4f73-4304-8691-40bb8269263e | Remaining: 0
+2026-04-18 09:57:04 | INFO     | digital_twin.websocket | ✅ Client connected: 630b0ea8-ee24-4c5d-a055-845d1fa9af50 | Machine: ALL | Total: 1
+2026-04-18 09:57:04 | INFO     | digital_twin.websocket | Client connected: 630b0ea8-ee24-4c5d-a055-845d1fa9af50 | Machine: ALL
+2026-04-18 10:07:31 | INFO     | digital_twin.websocket | ✅ Client connected: fb2b010d-a31e-4f22-8c14-b91b494d0e4d | Machine: ALL | Total: 2
+2026-04-18 10:07:31 | INFO     | digital_twin.websocket | Client connected: fb2b010d-a31e-4f22-8c14-b91b494d0e4d | Machine: ALL
+2026-04-18 10:08:05 | INFO     | digital_twin.websocket | Client disconnected: fb2b010d-a31e-4f22-8c14-b91b494d0e4d
+2026-04-18 10:08:05 | INFO     | digital_twin.websocket | ❌ Client disconnected: fb2b010d-a31e-4f22-8c14-b91b494d0e4d | Remaining: 1
+2026-04-18 10:08:05 | INFO     | digital_twin.websocket | Client disconnected: 630b0ea8-ee24-4c5d-a055-845d1fa9af50
+2026-04-18 10:08:05 | INFO     | digital_twin.websocket | ❌ Client disconnected: 630b0ea8-ee24-4c5d-a055-845d1fa9af50 | Remaining: 0
+2026-04-18 10:11:24 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 10:11:24 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 10:11:24 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 10:11:24 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 10:11:24 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 10:11:24 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 10:11:24 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 10:11:24 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 10:11:24 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 10:11:24 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 10:11:24 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 10:11:24 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 10:11:24 | INFO     | digital_twin.websocket | ⏹ All streams stopped
+2026-04-18 10:11:47 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 10:11:47 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 10:11:47 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 10:11:47 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 10:11:47 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 10:11:47 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 10:11:47 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 10:11:47 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 10:11:47 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 10:11:47 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 10:11:47 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 10:11:47 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 10:12:03 | INFO     | digital_twin.websocket | ✅ Client connected: cab22f42-2aeb-4564-9aa8-801254a508cf | Machine: ALL | Total: 1
+2026-04-18 10:12:03 | INFO     | digital_twin.websocket | Client connected: cab22f42-2aeb-4564-9aa8-801254a508cf | Machine: ALL
+2026-04-18 10:15:23 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 10:15:23 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 10:15:23 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 10:15:23 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 10:15:23 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 10:15:23 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 10:15:23 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 10:15:23 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 10:15:23 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 10:15:23 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 10:15:23 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 10:15:23 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 10:15:45 | INFO     | digital_twin.websocket | ✅ Client connected: b39ca5ef-7267-43d2-ae94-1e3302404ac8 | Machine: ALL | Total: 1
+2026-04-18 10:15:45 | INFO     | digital_twin.websocket | Client connected: b39ca5ef-7267-43d2-ae94-1e3302404ac8 | Machine: ALL
+2026-04-18 10:18:32 | INFO     | digital_twin.websocket | Client disconnected: b39ca5ef-7267-43d2-ae94-1e3302404ac8
+2026-04-18 10:18:32 | INFO     | digital_twin.websocket | ❌ Client disconnected: b39ca5ef-7267-43d2-ae94-1e3302404ac8 | Remaining: 0
+2026-04-18 10:18:47 | INFO     | digital_twin.websocket | ✅ Client connected: 149d5928-a155-4bf7-aeae-da787747d20b | Machine: ALL | Total: 1
+2026-04-18 10:18:47 | INFO     | digital_twin.websocket | Client connected: 149d5928-a155-4bf7-aeae-da787747d20b | Machine: ALL
+2026-04-18 10:29:57 | INFO     | digital_twin.websocket | Client disconnected: 149d5928-a155-4bf7-aeae-da787747d20b
+2026-04-18 10:29:57 | INFO     | digital_twin.websocket | ❌ Client disconnected: 149d5928-a155-4bf7-aeae-da787747d20b | Remaining: 0
+2026-04-18 10:30:46 | INFO     | digital_twin.websocket | ✅ Client connected: e9472ac5-eaf2-4ff3-9d91-b0c2d2ee9880 | Machine: ALL | Total: 1
+2026-04-18 10:30:46 | INFO     | digital_twin.websocket | Client connected: e9472ac5-eaf2-4ff3-9d91-b0c2d2ee9880 | Machine: ALL
+2026-04-18 10:59:18 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 10:59:18 | INFO     | digital_twin.websocket | 💉 Injected bearing wear failure on CNC_MILL_01 for high risk demonstration
+2026-04-18 10:59:18 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 10:59:18 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 10:59:18 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 10:59:18 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 10:59:18 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 10:59:18 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 10:59:18 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 10:59:18 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 10:59:18 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 10:59:18 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 10:59:18 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 11:00:51 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 11:00:51 | INFO     | digital_twin.websocket | 💉 Injected bearing wear failure on CNC_MILL_01 for high risk demonstration
+2026-04-18 11:00:51 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 11:00:51 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 11:00:51 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:00:51 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 11:00:51 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 11:00:51 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 11:00:51 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 11:00:51 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 11:00:51 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 11:00:51 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 11:00:51 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 11:00:51 | INFO     | digital_twin.websocket | ⏹ All streams stopped
+2026-04-18 11:01:24 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 11:01:24 | INFO     | digital_twin.websocket | 💉 Injected bearing wear failure on CNC_MILL_01 for high risk demonstration
+2026-04-18 11:01:24 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 11:01:24 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 11:01:24 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:01:24 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 11:01:24 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 11:01:24 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 11:01:24 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 11:01:24 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 11:01:24 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 11:01:24 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 11:01:24 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 11:01:24 | INFO     | digital_twin.websocket | ⏹ All streams stopped
+2026-04-18 11:01:45 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 11:01:45 | INFO     | digital_twin.websocket | 💉 Injected bearing wear failure on CNC_MILL_01 for high risk demonstration
+2026-04-18 11:01:45 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 11:01:45 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 11:01:45 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:01:45 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 11:01:45 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 11:01:45 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 11:01:45 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 11:01:45 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 11:01:45 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 11:01:45 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 11:01:45 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 11:01:45 | INFO     | digital_twin.websocket | ⏹ All streams stopped
+2026-04-18 11:03:44 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 11:03:44 | INFO     | digital_twin.websocket | 💉 Injected bearing wear failure on CNC_MILL_01 for high risk demonstration
+2026-04-18 11:03:44 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 11:03:44 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 11:03:44 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:03:44 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 11:03:44 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 11:03:44 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 11:03:44 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 11:03:44 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 11:03:44 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 11:03:44 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 11:03:44 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 11:04:36 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 11:04:36 | INFO     | digital_twin.websocket | 💉 Injected bearing wear failure on CNC_MILL_01 for high risk demonstration
+2026-04-18 11:04:36 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 11:04:36 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 11:04:36 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:04:36 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 11:04:36 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 11:04:36 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 11:04:36 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 11:04:36 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 11:04:36 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 11:04:36 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 11:04:36 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 11:04:36 | INFO     | digital_twin.websocket | ⏹ All streams stopped
+2026-04-18 11:05:49 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 11:05:49 | INFO     | digital_twin.websocket | 💉 Injected bearing wear failure on CNC_MILL_01 for high risk demonstration
+2026-04-18 11:05:49 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 11:05:49 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 11:05:49 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:05:49 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 11:05:49 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 11:05:49 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 11:05:49 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 11:05:50 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 11:05:50 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 11:05:50 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 11:05:50 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 11:07:34 | INFO     | digital_twin.websocket | ✅ Client connected: 4dad1d91-1e9b-497b-9470-f1341d149802 | Machine: ALL | Total: 1
+2026-04-18 11:07:34 | INFO     | digital_twin.websocket | Client connected: 4dad1d91-1e9b-497b-9470-f1341d149802 | Machine: ALL
+2026-04-18 11:11:20 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 11:11:20 | INFO     | digital_twin.websocket | 💉 Injected bearing wear failure on CNC_MILL_01 for high risk demonstration
+2026-04-18 11:11:20 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 11:11:20 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 11:11:20 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:11:20 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 11:11:20 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 11:11:20 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 11:11:20 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 11:11:20 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 11:11:20 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 11:11:20 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 11:11:20 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 11:11:23 | INFO     | digital_twin.websocket | ✅ Client connected: f41ca5c2-e412-4ab1-aa70-0e59e15b6eb3 | Machine: ALL | Total: 1
+2026-04-18 11:11:23 | INFO     | digital_twin.websocket | Client connected: f41ca5c2-e412-4ab1-aa70-0e59e15b6eb3 | Machine: ALL
+2026-04-18 11:11:28 | INFO     | digital_twin.websocket | Client disconnected: f41ca5c2-e412-4ab1-aa70-0e59e15b6eb3
+2026-04-18 11:11:28 | INFO     | digital_twin.websocket | ❌ Client disconnected: f41ca5c2-e412-4ab1-aa70-0e59e15b6eb3 | Remaining: 0
+2026-04-18 11:13:13 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 11:13:13 | INFO     | digital_twin.websocket | 💉 Injected bearing wear failure on CNC_MILL_01 for high risk demonstration
+2026-04-18 11:13:13 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 11:13:13 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 11:13:13 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:13:13 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 11:13:13 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 11:13:13 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 11:13:13 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 11:13:13 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 11:13:13 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 11:13:13 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 11:13:13 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 11:15:13 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 11:15:13 | INFO     | digital_twin.websocket | 💉 Injected bearing wear failure on CNC_MILL_01 for high risk demonstration
+2026-04-18 11:15:13 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 11:15:13 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 11:15:13 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:15:13 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 11:15:13 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 11:15:13 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 11:15:13 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 11:15:13 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 11:15:13 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 11:15:13 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 11:15:13 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 11:16:00 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 11:16:00 | INFO     | digital_twin.websocket | 💉 Injected bearing wear failure on CNC_MILL_01 for high risk demonstration
+2026-04-18 11:16:00 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 11:16:00 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 11:16:00 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:16:00 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 11:16:00 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 11:16:00 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 11:16:00 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 11:16:00 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 11:16:00 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 11:16:00 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 11:16:00 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 11:17:24 | INFO     | digital_twin.websocket | ✅ Client connected: 423f5ab7-8de2-41d5-b78f-6af2392aac33 | Machine: ALL | Total: 1
+2026-04-18 11:17:24 | INFO     | digital_twin.websocket | Client connected: 423f5ab7-8de2-41d5-b78f-6af2392aac33 | Machine: ALL
+2026-04-18 11:22:13 | INFO     | digital_twin.websocket | 🚀 Starting all machine streams...
+2026-04-18 11:22:13 | INFO     | digital_twin.websocket | 💉 Injected bearing wear failure on CNC_MILL_01 for high risk demonstration
+2026-04-18 11:22:13 | INFO     | digital_twin.websocket |   ▶ Stream started: CNC_MILL_01
+2026-04-18 11:22:13 | INFO     | digital_twin.websocket |   ▶ Stream started: CONVEYOR_02
+2026-04-18 11:22:13 | INFO     | digital_twin.websocket |   ▶ Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:22:13 | INFO     | digital_twin.websocket |   ▶ Stream started: ROBOT_ARM_04
+2026-04-18 11:22:13 | INFO     | digital_twin.websocket |   ▶ Stream started: COMPRESSOR_05
+2026-04-18 11:22:13 | INFO     | digital_twin.websocket | ✅ 5 streams active
+2026-04-18 11:22:13 | INFO     | digital_twin.websocket | 🔄 Streaming CNC_MILL_01
+2026-04-18 11:22:13 | INFO     | digital_twin.websocket | 🔄 Streaming CONVEYOR_02
+2026-04-18 11:22:13 | INFO     | digital_twin.websocket | 🔄 Streaming HYDRAULIC_PRESS_03
+2026-04-18 11:22:13 | INFO     | digital_twin.websocket | 🔄 Streaming ROBOT_ARM_04
+2026-04-18 11:22:13 | INFO     | digital_twin.websocket | 🔄 Streaming COMPRESSOR_05
+2026-04-18 11:23:08 | INFO     | digital_twin.websocket | ✅ Client connected: 4da34e60-27da-4d80-bb0c-fb4fd842ff2d | Machine: ALL | Total: 1
+2026-04-18 11:23:08 | INFO     | digital_twin.websocket | Client connected: 4da34e60-27da-4d80-bb0c-fb4fd842ff2d | Machine: ALL
+2026-04-18 11:23:20 | INFO     | digital_twin.websocket | Client disconnected: 4da34e60-27da-4d80-bb0c-fb4fd842ff2d
+2026-04-18 11:23:20 | INFO     | digital_twin.websocket | ❌ Client disconnected: 4da34e60-27da-4d80-bb0c-fb4fd842ff2d | Remaining: 0
+2026-04-18 11:23:57 | INFO     | digital_twin.websocket | ✅ Client connected: c5ccf57c-cf59-4d16-ba1b-ea27528cf180 | Machine: ALL | Total: 1
+2026-04-18 11:23:57 | INFO     | digital_twin.websocket | Client connected: c5ccf57c-cf59-4d16-ba1b-ea27528cf180 | Machine: ALL
+2026-04-18 11:24:29 | INFO     | digital_twin.websocket | ✅ Client connected: 62ca7818-434b-4653-a933-3d882f793f58 | Machine: ALL | Total: 2
+2026-04-18 11:24:29 | INFO     | digital_twin.websocket | Client connected: 62ca7818-434b-4653-a933-3d882f793f58 | Machine: ALL
+2026-04-18 11:28:29 | INFO     | digital_twin.websocket | ✅ Client connected: 545df5cc-33cf-4ee4-b61b-c006c5b3ab16 | Machine: ALL | Total: 3
+2026-04-18 11:28:29 | INFO     | digital_twin.websocket | Client connected: 545df5cc-33cf-4ee4-b61b-c006c5b3ab16 | Machine: ALL
+2026-04-18 11:30:32 | INFO     | digital_twin.websocket | Client disconnected: c5ccf57c-cf59-4d16-ba1b-ea27528cf180
+2026-04-18 11:30:32 | INFO     | digital_twin.websocket | ❌ Client disconnected: c5ccf57c-cf59-4d16-ba1b-ea27528cf180 | Remaining: 2
+2026-04-18 11:30:32 | INFO     | digital_twin.websocket | Client disconnected: 545df5cc-33cf-4ee4-b61b-c006c5b3ab16
+2026-04-18 11:30:32 | INFO     | digital_twin.websocket | ❌ Client disconnected: 545df5cc-33cf-4ee4-b61b-c006c5b3ab16 | Remaining: 1
+2026-04-18 11:30:34 | INFO     | digital_twin.websocket | ✅ Client connected: d2134a44-0664-4e48-94e7-1bc093d7be05 | Machine: ALL | Total: 2
+2026-04-18 11:30:34 | INFO     | digital_twin.websocket | Client connected: d2134a44-0664-4e48-94e7-1bc093d7be05 | Machine: ALL
+2026-04-18 11:30:36 | INFO     | digital_twin.websocket | ✅ Client connected: 5cda3e6e-2e3f-4fb1-88ab-4977f3090657 | Machine: ALL | Total: 3
+2026-04-18 11:30:36 | INFO     | digital_twin.websocket | Client connected: 5cda3e6e-2e3f-4fb1-88ab-4977f3090657 | Machine: ALL
+2026-04-18 11:30:36 | INFO     | digital_twin.websocket | ✅ Client connected: b798defc-fa7a-4bd4-8fcd-8c8fd659e9da | Machine: ALL | Total: 4
+2026-04-18 11:30:36 | INFO     | digital_twin.websocket | Client connected: b798defc-fa7a-4bd4-8fcd-8c8fd659e9da | Machine: ALL
+2026-04-18 11:32:05 | INFO     | digital_twin.websocket | ✅ Client connected: f68a9487-f88a-4826-8733-12ebfa2424db | Machine: ALL | Total: 5
+2026-04-18 11:32:05 | INFO     | digital_twin.websocket | Client connected: f68a9487-f88a-4826-8733-12ebfa2424db | Machine: ALL
+2026-04-18 11:32:12 | INFO     | digital_twin.websocket | Client disconnected: d2134a44-0664-4e48-94e7-1bc093d7be05
+2026-04-18 11:32:12 | INFO     | digital_twin.websocket | ❌ Client disconnected: d2134a44-0664-4e48-94e7-1bc093d7be05 | Remaining: 4
+2026-04-18 11:32:15 | INFO     | digital_twin.websocket | Client disconnected: 5cda3e6e-2e3f-4fb1-88ab-4977f3090657
+2026-04-18 11:32:15 | INFO     | digital_twin.websocket | ❌ Client disconnected: 5cda3e6e-2e3f-4fb1-88ab-4977f3090657 | Remaining: 3
+2026-04-18 11:32:16 | INFO     | digital_twin.websocket | Client disconnected: b798defc-fa7a-4bd4-8fcd-8c8fd659e9da
+2026-04-18 11:32:16 | INFO     | digital_twin.websocket | ❌ Client disconnected: b798defc-fa7a-4bd4-8fcd-8c8fd659e9da | Remaining: 2
+2026-04-18 11:33:25 | INFO     | digital_twin.websocket | Client disconnected: f68a9487-f88a-4826-8733-12ebfa2424db
+2026-04-18 11:33:25 | INFO     | digital_twin.websocket | ❌ Client disconnected: f68a9487-f88a-4826-8733-12ebfa2424db | Remaining: 1
+2026-04-18 11:33:25 | INFO     | digital_twin.websocket | ✅ Client connected: 3ca9e916-2c9a-4c36-b0d6-c6596460ac71 | Machine: ALL | Total: 2
+2026-04-18 11:33:25 | INFO     | digital_twin.websocket | Client connected: 3ca9e916-2c9a-4c36-b0d6-c6596460ac71 | Machine: ALL
+2026-04-18 11:33:34 | INFO     | digital_twin.websocket | Client disconnected: 3ca9e916-2c9a-4c36-b0d6-c6596460ac71
+2026-04-18 11:33:34 | INFO     | digital_twin.websocket | ❌ Client disconnected: 3ca9e916-2c9a-4c36-b0d6-c6596460ac71 | Remaining: 1
+2026-04-18 11:33:34 | INFO     | digital_twin.websocket | ✅ Client connected: 8b12895c-c12c-4853-a8aa-4752725927ba | Machine: ALL | Total: 2
+2026-04-18 11:33:34 | INFO     | digital_twin.websocket | Client connected: 8b12895c-c12c-4853-a8aa-4752725927ba | Machine: ALL
+2026-04-18 11:38:39 | INFO     | digital_twin.websocket | Client disconnected: 8b12895c-c12c-4853-a8aa-4752725927ba
+2026-04-18 11:38:39 | INFO     | digital_twin.websocket | ❌ Client disconnected: 8b12895c-c12c-4853-a8aa-4752725927ba | Remaining: 1

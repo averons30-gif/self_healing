@@ -1,0 +1,438 @@
+2026-04-18 06:06:25 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 06:06:25 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 06:06:25 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 06:06:25 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 06:06:25 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 06:06:25 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 06:06:25 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 06:06:25 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 06:06:25 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 06:06:25 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 06:06:25 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 06:06:25 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 06:06:25 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 06:06:25 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 06:06:25 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 06:06:25 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 06:06:25 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 06:06:25 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 07:23:54 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 07:23:54 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 07:23:54 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 07:23:54 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 07:23:54 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 07:23:54 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 07:23:54 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 07:23:54 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 07:23:54 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 07:23:54 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 07:23:54 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 07:23:54 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 07:23:54 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 07:23:54 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 07:23:54 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 07:23:54 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 07:23:54 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 07:23:54 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 07:31:05 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 07:31:05 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 07:31:05 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 07:31:05 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 07:31:05 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 07:31:05 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 07:31:05 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 07:31:05 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 07:31:05 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 07:31:05 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 07:31:05 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 07:31:05 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 07:31:05 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 07:31:06 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 07:31:06 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 07:31:06 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 07:31:06 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 07:31:06 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 07:31:06 | INFO     | digital_twin.data    | Stream cancelled: CNC_MILL_01
+2026-04-18 07:31:06 | INFO     | digital_twin.data    | Stream cancelled: CONVEYOR_02
+2026-04-18 07:31:06 | INFO     | digital_twin.data    | Stream cancelled: HYDRAULIC_PRESS_03
+2026-04-18 07:31:06 | INFO     | digital_twin.data    | Stream cancelled: ROBOT_ARM_04
+2026-04-18 07:31:06 | INFO     | digital_twin.data    | Stream cancelled: COMPRESSOR_05
+2026-04-18 07:32:31 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 07:32:31 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 07:32:31 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 07:32:31 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 07:32:31 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 07:32:31 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 07:32:31 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 07:32:31 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 07:32:31 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 07:32:31 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 07:32:31 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 07:32:31 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 07:32:31 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 07:32:31 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 07:32:31 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 07:32:31 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 07:32:31 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 07:32:31 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 07:33:38 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 07:33:38 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 07:33:38 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 07:33:38 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 07:33:38 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 07:33:38 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 07:33:38 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 07:33:38 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 07:33:38 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 07:33:38 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 07:33:38 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 07:33:38 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 07:33:38 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 07:33:38 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 07:33:38 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 07:33:38 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 07:33:38 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 07:33:39 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 07:33:57 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 07:33:57 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 07:33:57 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 07:33:57 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 07:33:57 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 07:33:57 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 07:33:57 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 07:33:57 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 07:33:57 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 07:33:57 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 07:33:57 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 07:33:57 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 07:33:57 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 07:33:57 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 07:33:57 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 07:33:57 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 07:33:57 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 07:33:57 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 08:29:39 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 08:29:39 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 08:29:39 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 08:29:39 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 08:29:39 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 08:29:39 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 08:29:39 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 08:29:39 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 08:29:39 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 08:29:39 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 08:29:39 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 08:29:39 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 08:29:39 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 08:29:39 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 08:29:39 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 08:29:39 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 08:29:39 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 08:29:39 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 10:11:23 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 10:11:23 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 10:11:23 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 10:11:23 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 10:11:23 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 10:11:23 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 10:11:23 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 10:11:23 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 10:11:23 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 10:11:23 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 10:11:23 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 10:11:23 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 10:11:23 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 10:11:24 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 10:11:24 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 10:11:24 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 10:11:24 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 10:11:24 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 10:11:24 | INFO     | digital_twin.data    | Stream cancelled: CNC_MILL_01
+2026-04-18 10:11:24 | INFO     | digital_twin.data    | Stream cancelled: CONVEYOR_02
+2026-04-18 10:11:24 | INFO     | digital_twin.data    | Stream cancelled: HYDRAULIC_PRESS_03
+2026-04-18 10:11:24 | INFO     | digital_twin.data    | Stream cancelled: ROBOT_ARM_04
+2026-04-18 10:11:24 | INFO     | digital_twin.data    | Stream cancelled: COMPRESSOR_05
+2026-04-18 10:11:47 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 10:11:47 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 10:11:47 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 10:11:47 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 10:11:47 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 10:11:47 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 10:11:47 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 10:11:47 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 10:11:47 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 10:11:47 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 10:11:47 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 10:11:47 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 10:11:47 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 10:11:47 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 10:11:47 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 10:11:47 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 10:11:47 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 10:11:47 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 10:15:23 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 10:15:23 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 10:15:23 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 10:15:23 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 10:15:23 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 10:15:23 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 10:15:23 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 10:15:23 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 10:15:23 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 10:15:23 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 10:15:23 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 10:15:23 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 10:15:23 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 10:15:23 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 10:15:23 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 10:15:23 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 10:15:23 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 10:15:23 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 10:59:17 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 10:59:17 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 10:59:17 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 10:59:17 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 10:59:17 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 10:59:17 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 10:59:17 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 10:59:17 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 10:59:17 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 10:59:17 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 10:59:17 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 10:59:17 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 10:59:17 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 10:59:18 | WARNING  | digital_twin.data    | 💉 Failure injected: CNC_MILL_01 | Mode: bearing_wear | Severity: 1.0
+2026-04-18 10:59:18 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 10:59:18 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 10:59:18 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 10:59:18 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 10:59:18 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 11:00:51 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:00:51 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:00:51 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:00:51 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:00:51 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:00:51 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:00:51 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 11:00:51 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:00:51 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:00:51 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:00:51 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:00:51 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:00:51 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:00:51 | WARNING  | digital_twin.data    | 💉 Failure injected: CNC_MILL_01 | Mode: bearing_wear | Severity: 1.0
+2026-04-18 11:00:51 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 11:00:51 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 11:00:51 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:00:51 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 11:00:51 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 11:00:51 | INFO     | digital_twin.data    | Stream cancelled: CNC_MILL_01
+2026-04-18 11:00:51 | INFO     | digital_twin.data    | Stream cancelled: CONVEYOR_02
+2026-04-18 11:00:51 | INFO     | digital_twin.data    | Stream cancelled: HYDRAULIC_PRESS_03
+2026-04-18 11:00:51 | INFO     | digital_twin.data    | Stream cancelled: ROBOT_ARM_04
+2026-04-18 11:00:51 | INFO     | digital_twin.data    | Stream cancelled: COMPRESSOR_05
+2026-04-18 11:01:24 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:01:24 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:01:24 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:01:24 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:01:24 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:01:24 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:01:24 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 11:01:24 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:01:24 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:01:24 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:01:24 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:01:24 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:01:24 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:01:24 | WARNING  | digital_twin.data    | 💉 Failure injected: CNC_MILL_01 | Mode: bearing_wear | Severity: 1.0
+2026-04-18 11:01:24 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 11:01:24 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 11:01:24 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:01:24 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 11:01:24 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 11:01:24 | INFO     | digital_twin.data    | Stream cancelled: CNC_MILL_01
+2026-04-18 11:01:24 | INFO     | digital_twin.data    | Stream cancelled: CONVEYOR_02
+2026-04-18 11:01:24 | INFO     | digital_twin.data    | Stream cancelled: HYDRAULIC_PRESS_03
+2026-04-18 11:01:24 | INFO     | digital_twin.data    | Stream cancelled: ROBOT_ARM_04
+2026-04-18 11:01:24 | INFO     | digital_twin.data    | Stream cancelled: COMPRESSOR_05
+2026-04-18 11:01:45 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:01:45 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:01:45 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:01:45 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:01:45 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:01:45 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:01:45 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 11:01:45 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:01:45 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:01:45 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:01:45 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:01:45 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:01:45 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:01:45 | WARNING  | digital_twin.data    | 💉 Failure injected: CNC_MILL_01 | Mode: bearing_wear | Severity: 1.0
+2026-04-18 11:01:45 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 11:01:45 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 11:01:45 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:01:45 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 11:01:45 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 11:01:45 | INFO     | digital_twin.data    | Stream cancelled: CNC_MILL_01
+2026-04-18 11:01:45 | INFO     | digital_twin.data    | Stream cancelled: CONVEYOR_02
+2026-04-18 11:01:45 | INFO     | digital_twin.data    | Stream cancelled: HYDRAULIC_PRESS_03
+2026-04-18 11:01:45 | INFO     | digital_twin.data    | Stream cancelled: ROBOT_ARM_04
+2026-04-18 11:01:45 | INFO     | digital_twin.data    | Stream cancelled: COMPRESSOR_05
+2026-04-18 11:03:44 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:03:44 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:03:44 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:03:44 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:03:44 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:03:44 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:03:44 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 11:03:44 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:03:44 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:03:44 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:03:44 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:03:44 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:03:44 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:03:44 | WARNING  | digital_twin.data    | 💉 Failure injected: CNC_MILL_01 | Mode: bearing_wear | Severity: 1.0
+2026-04-18 11:03:44 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 11:03:44 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 11:03:44 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:03:44 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 11:03:44 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 11:04:36 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:04:36 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:04:36 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:04:36 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:04:36 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:04:36 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:04:36 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 11:04:36 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:04:36 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:04:36 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:04:36 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:04:36 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:04:36 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:04:36 | WARNING  | digital_twin.data    | 💉 Failure injected: CNC_MILL_01 | Mode: bearing_wear | Severity: 1.0
+2026-04-18 11:04:36 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 11:04:36 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 11:04:36 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:04:36 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 11:04:36 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 11:04:36 | INFO     | digital_twin.data    | Stream cancelled: CNC_MILL_01
+2026-04-18 11:04:36 | INFO     | digital_twin.data    | Stream cancelled: CONVEYOR_02
+2026-04-18 11:04:36 | INFO     | digital_twin.data    | Stream cancelled: HYDRAULIC_PRESS_03
+2026-04-18 11:04:36 | INFO     | digital_twin.data    | Stream cancelled: ROBOT_ARM_04
+2026-04-18 11:04:36 | INFO     | digital_twin.data    | Stream cancelled: COMPRESSOR_05
+2026-04-18 11:05:49 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:05:49 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:05:49 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:05:49 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:05:49 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:05:49 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:05:49 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 11:05:49 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:05:49 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:05:49 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:05:49 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:05:49 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:05:49 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:05:49 | WARNING  | digital_twin.data    | 💉 Failure injected: CNC_MILL_01 | Mode: bearing_wear | Severity: 1.0
+2026-04-18 11:05:49 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 11:05:50 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 11:05:50 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:05:50 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 11:05:50 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 11:11:20 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:11:20 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:11:20 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:11:20 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:11:20 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:11:20 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:11:20 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 11:11:20 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:11:20 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:11:20 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:11:20 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:11:20 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:11:20 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:11:20 | WARNING  | digital_twin.data    | 💉 Failure injected: CNC_MILL_01 | Mode: bearing_wear | Severity: 1.0
+2026-04-18 11:11:20 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 11:11:20 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 11:11:20 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:11:20 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 11:11:20 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 11:13:13 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:13:13 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:13:13 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:13:13 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:13:13 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:13:13 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:13:13 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 11:13:13 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:13:13 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:13:13 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:13:13 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:13:13 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:13:13 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:13:13 | WARNING  | digital_twin.data    | 💉 Failure injected: CNC_MILL_01 | Mode: bearing_wear | Severity: 1.0
+2026-04-18 11:13:13 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 11:13:13 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 11:13:13 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:13:13 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 11:13:13 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 11:15:13 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:15:13 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:15:13 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:15:13 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:15:13 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:15:13 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:15:13 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 11:15:13 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:15:13 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:15:13 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:15:13 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:15:13 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:15:13 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:15:13 | WARNING  | digital_twin.data    | 💉 Failure injected: CNC_MILL_01 | Mode: bearing_wear | Severity: 1.0
+2026-04-18 11:15:13 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 11:15:13 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 11:15:13 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:15:13 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 11:15:13 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 11:16:00 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:16:00 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:16:00 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:16:00 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:16:00 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:16:00 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:16:00 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 11:16:00 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:16:00 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:16:00 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:16:00 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:16:00 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:16:00 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:16:00 | WARNING  | digital_twin.data    | 💉 Failure injected: CNC_MILL_01 | Mode: bearing_wear | Severity: 1.0
+2026-04-18 11:16:00 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 11:16:00 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 11:16:00 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:16:00 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 11:16:00 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05
+2026-04-18 11:22:13 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:22:13 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:22:13 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:22:13 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:22:13 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:22:13 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:22:13 | INFO     | digital_twin.data    | 🚨 AlertPriorityQueue initialized (max_size=1000)
+2026-04-18 11:22:13 | INFO     | digital_twin.data    |   📊 Profile created: CNC_MILL_01 (cnc_mill)
+2026-04-18 11:22:13 | INFO     | digital_twin.data    |   📊 Profile created: CONVEYOR_02 (conveyor)
+2026-04-18 11:22:13 | INFO     | digital_twin.data    |   📊 Profile created: HYDRAULIC_PRESS_03 (hydraulic_press)
+2026-04-18 11:22:13 | INFO     | digital_twin.data    |   📊 Profile created: ROBOT_ARM_04 (robot_arm)
+2026-04-18 11:22:13 | INFO     | digital_twin.data    |   📊 Profile created: COMPRESSOR_05 (compressor)
+2026-04-18 11:22:13 | INFO     | digital_twin.data    | 📡 DataSimulator initialized
+2026-04-18 11:22:13 | WARNING  | digital_twin.data    | 💉 Failure injected: CNC_MILL_01 | Mode: bearing_wear | Severity: 1.0
+2026-04-18 11:22:13 | INFO     | digital_twin.data    | 📡 Stream started: CNC_MILL_01
+2026-04-18 11:22:13 | INFO     | digital_twin.data    | 📡 Stream started: CONVEYOR_02
+2026-04-18 11:22:13 | INFO     | digital_twin.data    | 📡 Stream started: HYDRAULIC_PRESS_03
+2026-04-18 11:22:13 | INFO     | digital_twin.data    | 📡 Stream started: ROBOT_ARM_04
+2026-04-18 11:22:13 | INFO     | digital_twin.data    | 📡 Stream started: COMPRESSOR_05

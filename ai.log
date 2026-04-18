@@ -1,0 +1,729 @@
+2026-04-18 06:06:25 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 06:06:25 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 06:06:25 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 06:06:25 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 06:06:25 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 06:06:25 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 06:06:25 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 06:06:25 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 06:06:25 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 06:06:25 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 06:06:25 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 06:06:25 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 06:06:25 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 06:06:25 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 06:06:25 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 07:23:54 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 07:23:54 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 07:23:54 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 07:23:54 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 07:23:54 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 07:23:54 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 07:23:54 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 07:23:54 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 07:23:54 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 07:23:54 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 07:23:54 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 07:23:54 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 07:23:54 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 07:23:54 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 07:23:54 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 07:23:54 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 07:31:05 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 07:31:06 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 07:32:31 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 07:32:31 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 07:33:38 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 07:33:38 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 07:33:57 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 07:33:57 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 08:29:39 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 08:29:39 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 10:11:23 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 10:11:24 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 10:11:47 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 10:11:47 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 10:15:23 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 10:15:23 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 10:59:17 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 10:59:18 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 10:59:18 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 10:59:18 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:20 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 10:59:20 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:22 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:24 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:26 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:28 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:30 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:32 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:34 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:36 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:38 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:40 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:42 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:44 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:46 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:48 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 10:59:48 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:50 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:52 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:54 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:56 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 10:59:58 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:00 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:02 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:04 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:06 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:08 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:10 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:12 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:14 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:16 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:18 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:00:18 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:20 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:22 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:24 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:26 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:28 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:30 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:32 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:34 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:36 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:38 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:40 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:42 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:44 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:46 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:48 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:00:48 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:00:48 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:50 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:51 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 11:00:51 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:00:51 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:00:52 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:54 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:56 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:00:58 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:00 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:02 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:04 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:06 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:08 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:10 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:12 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:14 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:16 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:18 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:01:18 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:20 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:01:20 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:22 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:24 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 11:01:24 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:01:24 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:01:24 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:26 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:28 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:30 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:32 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:34 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:36 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:38 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:40 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:42 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:44 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:45 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 11:01:45 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:01:45 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:01:46 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:48 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:01:48 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:50 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:52 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:54 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:56 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:01:58 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:00 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:02 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:04 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:06 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:08 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:10 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:12 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:15 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:16 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:18 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:02:18 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:02:18 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:21 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:23 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:25 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:27 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:29 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:31 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:33 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:35 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:37 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:02:39 | ERROR    | digital_twin.ai      | [CNC_MILL_01] DB persist error: DigitalTwinEngine._format_alert_message() missing 1 required positional argument: 'anomalous'
+2026-04-18 11:03:44 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 11:03:44 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:03:44 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:03:47 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:04:15 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:04:36 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 11:04:36 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:04:36 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:04:45 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:05:15 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:05:15 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:05:49 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 11:05:49 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:05:50 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:05:52 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:06:20 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:06:50 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:07:20 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:07:20 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:07:50 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:07:52 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:08:21 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:08:51 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:08:51 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:09:21 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:09:51 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:09:53 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:10:21 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:10:21 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:10:52 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:11:20 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 11:11:20 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:11:20 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:11:22 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:11:50 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:12:21 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:13:13 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 11:13:13 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:13:13 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:13:15 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:13:43 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:14:13 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:14:43 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:14:43 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:15:13 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 11:15:13 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:15:13 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:15:15 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:15:43 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:16:00 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 11:16:00 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:16:00 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:16:02 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:16:30 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:17:00 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:17:30 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:17:30 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:18:00 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:18:02 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:18:31 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:19:01 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:19:01 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:19:31 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:20:02 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:20:04 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:20:32 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:20:32 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:22:13 | INFO     | digital_twin.ai.predictive | ✅ PredictiveMaintenanceModel initialized
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CNC_MILL_01]
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CNC_MILL_01]
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      |   [CNC_MILL_01] Warmed up with 120 historical readings
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      | ✅ Engine ready: [CNC_MILL_01]
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [CONVEYOR_02]
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [CONVEYOR_02]
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      |   [CONVEYOR_02] Warmed up with 120 historical readings
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      | ✅ Engine ready: [CONVEYOR_02]
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [HYDRAULIC_PRESS_03]
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [HYDRAULIC_PRESS_03]
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      |   [HYDRAULIC_PRESS_03] Warmed up with 120 historical readings
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      | ✅ Engine ready: [HYDRAULIC_PRESS_03]
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [ROBOT_ARM_04]
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [ROBOT_ARM_04]
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      |   [ROBOT_ARM_04] Warmed up with 120 historical readings
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      | ✅ Engine ready: [ROBOT_ARM_04]
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      | ⚙️  DigitalTwinEngine created: [COMPRESSOR_05]
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      | 🔧 Initialising engine: [COMPRESSOR_05]
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      |   [COMPRESSOR_05] Warmed up with 120 historical readings
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      | ✅ Engine ready: [COMPRESSOR_05]
+2026-04-18 11:22:13 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:22:13 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:22:15 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:22:43 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:23:13 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:23:43 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:23:43 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:24:13 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:24:15 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:24:43 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:25:13 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:25:14 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:25:44 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:26:14 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:26:16 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:26:44 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:26:44 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:27:14 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:27:44 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:28:15 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:28:15 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:28:17 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:28:45 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:29:15 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:29:45 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:29:45 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:30:15 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:30:18 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:30:46 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:31:16 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:31:16 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:31:46 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:32:16 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:32:18 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:32:47 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:32:47 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:33:17 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:33:47 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:34:17 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:34:17 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:34:19 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:34:47 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:35:18 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:35:48 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:35:48 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:36:18 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:36:20 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:36:48 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:37:18 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:37:18 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:37:49 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:38:19 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:38:21 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:38:49 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:38:49 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:39:19 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:39:50 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:40:20 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:40:20 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:40:22 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:40:50 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:41:20 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:41:50 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:41:50 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:42:21 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:42:23 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:42:51 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:43:21 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:43:21 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:43:51 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:44:22 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:44:24 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:44:52 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:44:52 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:45:22 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:45:52 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:46:23 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:46:23 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:46:25 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:46:53 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:47:23 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:47:53 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:47:53 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:48:24 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:48:26 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:48:54 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:49:24 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:49:24 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:49:54 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:50:25 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:50:27 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:50:55 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:50:55 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:51:25 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:51:55 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:52:25 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: increase_cooling (risk=HIGH, score=75.0)
+2026-04-18 11:52:25 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
+2026-04-18 11:52:27 | INFO     | digital_twin.ai      | 🔧 [CNC_MILL_01] Healing: reduce_load (risk=HIGH, score=75.0)
+2026-04-18 11:52:56 | WARNING  | digital_twin.ai      | 🚨 [CNC_MILL_01] Alert: HIGH score=75.0
